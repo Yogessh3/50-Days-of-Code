@@ -1,4 +1,4 @@
-#Time - O(nlogn) || Space - O(1)
+#Time - O(n logn) || Space - O(1)
 def twoNumberSum(array,targetSum):
     array.sort()
     start = 0
