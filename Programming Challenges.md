@@ -8,13 +8,13 @@
 5.  Non Constructible Change
 
 #### Programming Challenges (Day 3) :
-6. Validate Subsequence
-7. Move element to End
-
-#### Programming Challenges (Day 4) :
 8. Spiral Traverse
 9. Montonic Array
 10. Smallest Difference
+
+#### Programming Challenges (Day 4) :
+6. Validate Subsequence
+7. Move element to End
 
 #### Programming Challenges (Day 5) :
 11. Longest Peak 
