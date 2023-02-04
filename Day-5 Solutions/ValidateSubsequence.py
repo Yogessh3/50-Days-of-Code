@@ -6,4 +6,3 @@ def validateSubsequence(array, sequence):
             sequenceIdx += 1
         arrayIdx += 1
     return sequenceIdx == len(sequence)
-print(validateSubsequence([4,7,8,2,1],[7,8]))
