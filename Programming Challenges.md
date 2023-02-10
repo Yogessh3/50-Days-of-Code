@@ -19,3 +19,19 @@
 #### Programming Challenges (Day 5) :
 11.  Validate Subsequence
 12.  Move element to End
+
+#### Programming Challenges (Day 6) :
+13. Calendar Matching
+
+#### Programming Challenges (Day 7) :
+14. Apartment Hunting
+
+#### Programming Challenges (Day 8) :
+15. Waterfall Streams
+
+#### Programming Challenges (Day 9) :
+16. Minimum Area Rectangle
+
+#### Programming Challenges (Day 10) :
+17. Line through Points
+
